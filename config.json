@@ -1,0 +1,5 @@
+{
+    "ai_url": "http://localhost:11434/api",
+    "ai_model" : "gemma2:2b"
+  }
+  
