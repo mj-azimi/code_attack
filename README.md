@@ -17,6 +17,15 @@ To run this project, you need the following:
 - An internet connection to use the Ollama model
 - Access to a Git repository
 
+### ollama
+Read the ollama documentation and install a suitable model first.
+!["Ollama WebSite"]("https://ollama.com")
+
+## Initial configuration
+1. Open the config.json file
+2. Enter your ollama server url
+3. Enter your model name
+
 ## How to Run
 
 1. To compile the project, use the following command:
