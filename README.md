@@ -21,7 +21,8 @@ To run this project, you need the following:
 Read the ollama documentation and install a suitable model first.
 <a href="https://ollama.com">Ollama WebSite</a>
 
-![Image](https://private-user-images.githubusercontent.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU5NzM5MTIsIm5iZiI6MTczNTk3MzYxMiwicGF0aCI6Ii8zMzI1NDQ3LzI1NDkzMjU3Ni0wZDBiNDRlMi04ZjRhLTRlOTktOWI1Mi1hNWMxYzc0MWM4ZjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEwNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMDRUMDY1MzMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTQ1ODlmZmQyNDZiMWY0NGViYjExZDkyMjRjZmVkM2M4MTNmYzUzYTNlMDlmY2Y2OTM1ODI0YzhmZWMxNGUyZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.ZSoL1QjXTSEQKOrqxqcJEQOEb2byiwURZNrpDBr1ahM)
+<img alt="ollama" height="200px" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
+
 
 ## Initial configuration
 1. Open the config.json file
