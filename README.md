@@ -49,7 +49,7 @@ If you want to change some model or repository connection settings, you can edit
 ## How to Use
 After running the application, it will analyze the code in your repository. A report showing the issues and weaknesses in the code will be displayed, including the percentage of identified problems.
 
-## Suggestions for Future Improvements:
+## Future outlook
 - Support for analyzing code in different programming languages.
 - Improve the issue reporting with more details.
 - Add the ability to save reports as files.
