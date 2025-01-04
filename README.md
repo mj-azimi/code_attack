@@ -20,7 +20,8 @@ To run this project, you need the following:
 ### ollama
 Read the ollama documentation and install a suitable model first.
 <a href="https://ollama.com">Ollama WebSite</a>
-!["Image"]("https://ollama.com/public/ollama.png")
+
+![Image](https://ollama.com/public/ollama.png)
 
 ## Initial configuration
 1. Open the config.json file
